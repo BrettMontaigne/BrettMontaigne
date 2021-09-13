@@ -22,7 +22,7 @@ Somehow I end up scaffolding a lot of new ideas in Node.js regardless. C'est La 
 However, I do hold a special place in my heart for functional languages like Scala.
 
 ### 🌱 I’m currently learning:
-I'm overclocking all brain cycles on Ethereum and Smart Contracts development stack: Solidity, Truffle, OpenZeppelin, Infura.io, Vyper, Chainlink, etc.
+I'm overclocking all brain cycles on the ETH Smart Contracts dev stack: Solidity, Truffle, OpenZeppelin, Infura.io, Vyper, Chainlink, etc.
 
 ### 🧘 Cryptocurrency Trading Philosophy 
 - Zero-sum is merely symmetry; find the asymmetry. 
