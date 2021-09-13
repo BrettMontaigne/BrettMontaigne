@@ -24,7 +24,7 @@ However, I do hold a special place in my heart for functional languages like Sca
 ### 🌱 I’m currently learning:
 I'm overclocking all brain cycles on the ETH Smart Contracts dev stack: Solidity, Truffle, OpenZeppelin, Infura.io, Vyper, Chainlink, etc.
 
-### 🧘 Cryptocurrency Trading Philosophy 
+### 🧘 Crypto trading philosophy:
 - Zero-sum is merely symmetry; find the asymmetry. 
 - Embrace the fight: without worthy adversaries, you cannot become worthy.
 - Code like a Spartan in Laconic verse: less code means less attack vectors.
