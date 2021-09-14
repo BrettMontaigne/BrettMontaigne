@@ -6,7 +6,7 @@
 I'm a software engineer who loves to create innovative and profitable algorithmic trading strategies on different blockchains. I'm always learning and have a broad interest in math and physics.
 
 ### 🔭 I'm currently working on:
-* **Cryptocurrency Trading**: I'm mainly interested in finding new profitable strategies in the [Dark Forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff) of Miner Extractable Value (MEV). 
+* **Cryptocurrency Trading**: I'm mainly interested in finding new profitable strategies in the [Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest/) of Miner Extractable Value (MEV). 
 I'm exploring higher-dimensional arbitrage strategies and hybrid contracts that employ more sophisticated frontrunning defenses such as intermediate states, submarine sends, tx counters, etc. I'm also exploring tools like atomic flash loans and flash minting to turn algorithms into GigaWhales. 🐋
 * **Performance Testing**: Performance testing is my zen. I'm working day-to-day on test automation frameworks like k6 and Vegeta.
 * **Machine Learning**: I have experience feature engineering vectors from real-time market data, and building production-quality end-to-end machine learning models with frameworks like Apache Spark and all the different libraries in Python. I'm currently working on a data model that leverages these tools with multiprocessing and in-memory aggregations for very fast high-frequency arbitrage.
