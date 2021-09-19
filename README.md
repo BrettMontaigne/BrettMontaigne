@@ -1,6 +1,6 @@
 <div align="center" ><img src="https://forex-station.com/download/file.php?id=3326577" width="540" height="200" /></div>
 
-## Brett Montaigne - */'maan.tayn/*
+## Brett Montaigne  */'maan.tayn/*
 
 I'm a software engineer who loves to create innovative and profitable algorithmic trading strategies on different blockchains. I'm always learning and have a broad interest in math and physics.
 
@@ -16,16 +16,14 @@ I'm a software engineer who loves to create innovative and profitable algorithmi
 
 ### 🌍 Languages:
 I prefer developing in languages with fast HTTP libraries and short development turnaround times (e.g. Golang, Python). 
-Somehow I end up scaffolding a lot of new ideas in Node.js regardless. C'est La Vie!
+Somehow I end up scaffolding a lot of new ideas in Node.js regardless.
 However, I do hold a special place in my heart for functional languages like Scala.
 
 ### 🌱 I’m currently learning:
 I'm overclocking all brain cycles on the ETH Smart Contracts dev stack: Solidity, Truffle, OpenZeppelin, Infura.io, Vyper, Chainlink, etc.
 
-### 🧘 Coding philosophy:
-- Zero-sum is merely symmetry; find the asymmetry. 
-- Embrace the fight: without worthy adversaries, you cannot become worthy.
-- Code like a Spartan in Laconic verse: less code means less attack vectors.
+### 🧘 Coding philosophy: 
+> Zero-sum is merely symmetry; find the asymmetry. 
 
 
 If something here has helped you and you'd like to send me some gas money:
