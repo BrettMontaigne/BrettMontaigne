@@ -22,8 +22,8 @@ However, I do hold a special place in my heart for functional languages like Sca
 ### 🌱 I’m currently learning:
 I'm overclocking all brain cycles on the ETH Smart Contracts dev stack: Solidity, Truffle, OpenZeppelin, Infura.io, Vyper, Chainlink, etc.
 
-### 🧘 Coding philosophy: 
-> Zero-sum is merely symmetry; find the asymmetry. 
+### 🧘 Philosophy: 
+> Zero-sum is symmetry; find the asymmetry. 
 
 
 If something here has helped you and you'd like to send me some gas money:
