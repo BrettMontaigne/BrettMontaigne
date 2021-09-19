@@ -1,7 +1,6 @@
-<img src="https://user-images.githubusercontent.com/78888068/133157099-6e27cf4b-6382-4c31-a562-337d062f8e6e.gif" width="1080" height="50"/>
+<div align="center" ><img src="https://forex-station.com/download/file.php?id=3326577" width="540" height="200" /></div>
 
-## Brett Montaigne
-> /'maan.tayn/
+## Brett Montaigne - */'maan.tayn/*
 
 I'm a software engineer who loves to create innovative and profitable algorithmic trading strategies on different blockchains. I'm always learning and have a broad interest in math and physics.
 
