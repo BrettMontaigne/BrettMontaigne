@@ -7,7 +7,7 @@ I'm a software engineer who loves to create innovative and profitable algorithmi
 ### 🔭 I'm currently working on:
 
 
-* **Tiber Protocol**: Tiber is the first liquid staking protocol on Algorand, currently developing in collaboration with the G7 cohort in the 2022 International School of Algorand Smart Contracts.
+* **Tiber Protocol**: Tiber is the first liquid staking protocol on Algorand, currently developing in collaboration with the 2022 International School of Algorand Smart Contracts.
 
 * **Blockchain Engineering @ TaxBit**: Actively researching, interpreting, and intercepting smart contract calls on multiple different blockchains.
 
