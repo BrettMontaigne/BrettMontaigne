@@ -16,6 +16,7 @@ I'm a software engineer who loves to create innovative and profitable algorithmi
 
 ### 🤝 I’m looking to collaborate on:
 
+* The intersection of artificial intelligence and web3 technologies to increase AI capabilities and broaden adoption 
 * Generalizing smart contract decoding strategies beyond Solidity
 * High Frequency Arbitrage Strategies
 * Novel Flash Loan and Flash Mint Implementations
