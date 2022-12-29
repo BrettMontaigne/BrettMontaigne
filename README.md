@@ -1,15 +1,14 @@
 <div align="center" ><img src="https://forex-station.com/download/file.php?id=3326577" width="540" height="200" /></div>
 
-## Brett Montaigne  */'maan.tayn/*
+## Brett Montaigne  */mɔ̃.tɛn/*
 
 I'm a software engineer who loves to create innovative and profitable algorithmic trading strategies on different blockchains. I'm always learning and have a broad interest in math and physics.
 
 ### 🔭 I'm currently working on:
 
-
-* **Tiber Protocol**: Tiber is the first liquid staking protocol on Algorand, currently developing in collaboration with the 2022 International School of Algorand Smart Contracts.
-
-* **Blockchain Engineering @ TaxBit**: Actively researching, interpreting, and intercepting smart contract calls on multiple different blockchains.
+* **AI + Web3**: I'm currently researching and developing methods to use web3 technologies to add monetization strategies to modern AI models.  
+  
+* **Tiber Protocol**: Tiber is a prototype liquid staking protocol on Algorand, currently developing in collaboration with peers in the 2022 International School of Algorand Smart Contracts.
 
 * **Cryptocurrency Trading**: I'm working on arbitrage trading strategies that employ more sophisticated frontrunning defenses such as intermediate states, submarine sends, tx counters, etc. I'm also exploring interfaces like atomic flash loans and flash minting to turn algorithms into GigaWhales. 🐋
 
