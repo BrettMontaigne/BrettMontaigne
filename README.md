@@ -1,5 +1,3 @@
-<div align="center" ><img src="https://forex-station.com/download/file.php?id=3326577" width="540" height="200" /></div>
-
 ## Brett Montaigne  */mɔ̃.tɛn/*
 
 I'm a software engineer who loves to create innovative and profitable algorithmic trading strategies on different blockchains. I'm always learning and have a broad interest in math and physics.
