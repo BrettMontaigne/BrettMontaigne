@@ -4,7 +4,7 @@ I'm a software engineer with broad interests in distributed ledger tech and arti
 
 ### 🔭 I'm currently working on:
 
-* **AI + Web3**: I'm currently researching and developing methods to use web3 technologies to add monetization strategies to modern AI models.  
+* **AI + Web3**: I'm currently researching and developing methods to incentivize evaluation and tuning of large language models.  
 
 ### 🤝 I’m looking to collaborate on:
 
